@@ -1,4 +1,4 @@
 # ExpandableRecyclerView
 Animated Expandable RecyclerView
 
-ExpandableRecyclerView/screenshort.png
+Please see the screenshort attached wth project to know more
